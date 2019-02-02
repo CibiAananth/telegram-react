@@ -1,2 +1,7 @@
 # telegram-react
-Telegram link for react developers bangalore
+Telegram channel for react developers bangalore.
+
+## Link
+https://t.me/reactbangalore
+
+#### Developers join the channel and grow with the community.
